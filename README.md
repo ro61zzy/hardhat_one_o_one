@@ -1,1 +1,1 @@
-# hardhat_one_o_one
+HardHat from the docs tutorial init!
